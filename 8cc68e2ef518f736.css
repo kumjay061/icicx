@@ -56,6 +56,16 @@ h1 {
   padding: 15px;
   position: relative;
 }
+
+
+.hader2 {
+  background-color: #9b2400;
+  text-align: center;
+  padding: 4px;
+  position: relative;
+}
+
+
 .header-text {
   font-family: Lato-Italic, sans-serif !important;
 }
